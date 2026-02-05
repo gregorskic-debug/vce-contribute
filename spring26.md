@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Charles Gregorski](https://github.com/gregorskic-debug) - Student, golfer, loves videogames and the beach.
